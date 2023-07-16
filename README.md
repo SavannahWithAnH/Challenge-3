@@ -8,13 +8,11 @@ Given a set of financial data called budget_data.csv., I was asked to use Python
 - The greatest increase in profits (date and amount) over the entire period  
 - The greatest decrease in profits (date and amount) over the entire period  
 
-**Analysis**  
+**Analysis Preview**  
 <img width="814" alt="image" src="https://github.com/SavannahWithAnH/PyPoll-PyBank/assets/126124356/e311cdad-81a4-44b5-863d-249d4c14da4a">  
 
 
-Analysis Results:  
-
-Financial Analysis
+Financial Analysis Results
 ----------------------------
 **Total Months: 86**  
 **Total: $22564198**  
@@ -32,9 +30,11 @@ Given a set of poll data called election_data.csv, I was asked to use Python to 
 - The total number of votes each candidate won  
 - The winner of the election based on popular vote  
 
-Analysis Results:  
+**Analysis Preview**   
+<img width="593" alt="image" src="https://github.com/SavannahWithAnH/PyPoll-PyBank/assets/126124356/4f4326c0-3e85-4cc9-a0ed-38e8c599b30a">  
 
-Election Results
+
+Election Analysis Results
 -------------------------
 **Total Votes: 369711**  
 **Charles Casper Stockham: 23.049% (85213)**  
