@@ -8,6 +8,9 @@ Given a set of financial data called budget_data.csv., I was asked to use Python
 - The greatest increase in profits (date and amount) over the entire period  
 - The greatest decrease in profits (date and amount) over the entire period  
 
+**Analysis**  
+<img width="814" alt="image" src="https://github.com/SavannahWithAnH/PyPoll-PyBank/assets/126124356/e311cdad-81a4-44b5-863d-249d4c14da4a">  
+
 
 Analysis Results:  
 
